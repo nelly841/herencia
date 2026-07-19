@@ -1,12 +1,19 @@
-# herencia
-=== Automovil ===
-El vehiculo ha sido encendido.
-Marca: Toyota
-Año: 2023
-Puertas: 4
+=== Habitación Simple ===
+Habitación: 101
+Precio: $800.0
+Disponible: true
+Habitación 101 reservada.
 
-=== Motocicleta ===
-El vehiculo ha sido encendido.
-Marca: Honda
-Año: 2022
-Cilindrada: 250 cc
+=== Habitación Doble ===
+Habitación: 201
+Precio: $1500.0
+Disponible: true
+Habitación 201 reservada.
+
+=== Suite ===
+Habitación: 301
+Precio: $3000.0
+Disponible: true
+Incluye jacuzzi y servicio VIP.
+Habitación 301 reservada.
+
